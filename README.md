@@ -26,8 +26,10 @@ Before building the project, create a `libs/` folder in the project root and add
 - `syntheticaBlueLight.jar`
 
 These libraries are required to support the custom GUI theme used in the Java application.
+
 4. **Build and run**:
 Use NetBeans or run:
+
 ant clean
 ant build
 ant run
