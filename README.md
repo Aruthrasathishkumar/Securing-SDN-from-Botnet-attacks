@@ -28,6 +28,7 @@ Before building the project, create a `libs/` folder in the project root and add
 These libraries are required to support the custom GUI theme used in the Java application.
 
 4. **Build and run**:
+   
 Use NetBeans or run:
 
 ant clean
