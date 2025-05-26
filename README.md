@@ -31,5 +31,7 @@ These libraries are required to support the custom GUI theme used in the Java ap
 Use NetBeans or run:
 
 ant clean
+
 ant build
+
 ant run
